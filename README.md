@@ -1,2 +1,2 @@
 # sprint03
-Math statistics
+Math statistics Python+JS
